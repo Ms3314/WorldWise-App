@@ -1,8 +1,8 @@
 function App() {
-const x = 2032
   return (
     <>
       <div>Wordwide sit </div>
+      {/* so i will start by tomo */}
     </>
   )
 }
