@@ -1,0 +1,17 @@
+.nav {
+    background-color: green;
+}
+.nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    color: white;
+}
+
+:global(.active) {
+    background-color: white;
+    color: green;
+    border-radius: 5px;
+    padding: 5px;
+}
